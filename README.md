@@ -4,5 +4,5 @@
 
 >> Primeira coisa que tive que fazer:
 >>> Instalar via apt node e yarn
-##### sudo apt install node
-##### sudo apt install yarn
+    sudo apt install node
+    sudo apt install yarn
